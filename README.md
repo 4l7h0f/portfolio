@@ -15,3 +15,13 @@
 5. Opened the repository in Cursor
 6. Created this README.md file
 7. Committed and pushed to GitHub
+
+## Issues Encountered & Solutions
+
+|Issue | Solution|
+|------|---------|
+| Login to Claude Code required more than free tier | The extension prompted for paid API access beyond free tier. Completed login but noted that a paid plan may be needed for full functionality.|
+| Codex extension login| Worked without issues.|
+| First git push asked for credentials | Used GitHub personal access token instead of password. |
+	
+	
