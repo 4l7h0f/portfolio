@@ -5,7 +5,7 @@ This document lists 10 industry experts who are actively practicing and teaching
 | Expert | Role/Organization | Focus Area | Key Links |
 | :--- | :--- | :--- | :--- |
 | **Lily Ray** | VP of SEO Strategy, Amsive | E-E-A-T, Google Core Updates, AI Search Quality | [LinkedIn](https://www.linkedin.com/in/lily-ray-44755615), [YouTube](https://www.youtube.com/@lilyray) |
-| **Kevin Indig** | Independent Growth Advisor | Growth Systems, AI Agent Optimization, LLM Citation | [LinkedIn](https://www.linkedin.com/in/kevinindig), [Growth Memo](https://www.growth-memo.com) |
+| Kevin Indig | Independent Growth Advisor | Growth Systems, AI Agent Optimization, LLM Citation | [LinkedIn](https://www.linkedin.com/in/kevinindig), [Growth Memo](https://www.growth-memo.com) |
 | **Aleyda Solís** | Founder, Orainti | Technical SEO, AI Crawlability, Agentic Commerce | [LinkedIn](https://www.linkedin.com/in/aleyda), [Youtube](https://www.youtube.com/@CrawlingMondaysbyAleyda) |
 | **Matt Diggity** | Founder, Diggity Marketing | SEO Experiments, AI Content Scaling, Query Fan-Out | [LinkedIn](https://www.linkedin.com/in/mattdiggityseo/), [YouTube](https://www.youtube.com/@MattDiggity) |
 | **Ross Simmonds** | CEO, Foundation | Content Distribution, Generative Engine Optimization (GEO) | [LinkedIn](https://www.linkedin.com/in/rosssimmonds), [Foundation Blog](https://foundationinc.co) |
