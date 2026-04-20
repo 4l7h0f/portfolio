@@ -8,10 +8,10 @@ As search engines shift from "information retrieval" to "generative AI experienc
 
 ## Repository Structure
 
-- `/research/sources.md`: A curated list of 10 experts with links to their latest content and brief annotations.
-- `/research/linkedin-posts/`: Detailed summaries and insights from recent LinkedIn posts by top SEO growth advisors.
-- `/research/youtube-transcripts/`: Summaries and key findings from the most impactful YouTube videos on AI-SEO.
-- `/research/other/`: Deep dives into specific frameworks like GEO (Generative Engine Optimization) and Semantic Content Networks.
+- `/research/sources/sources.md`: A curated list of 10 experts with links to their latest content and brief annotations.
+- `/research/sources/linkedin-posts/`: Detailed summaries and insights from recent LinkedIn posts by top SEO growth advisors.
+- `/research/sourcesyoutube-transcripts/`: Summaries and key findings from the most impactful YouTube videos on AI-SEO.
+- `/research/sources/other/`: Deep dives into specific frameworks like GEO (Generative Engine Optimization) and Semantic Content Networks.
 
 ## The 10 Experts & Why They Were Chosen
 
@@ -31,6 +31,13 @@ The following experts were selected because they are **active practitioners** wh
 ## How to Use This Research
 
 This material is designed to support the creation of a real-world SEO playbook for B2B SaaS and high-traffic content sites. Each research file includes actionable takeaways and strategic shifts for 2026.
+
+
+### AI-Powered SEO Content Production Playbook
+
+This repository contains a structured SOP for producing SEO content using AI, based on 10 expert sources.
+
+👉 Read the playbook: ./playbook/playbook-ai-seo-2026.md
 
 ---
 *Created as part of the Gemini CLI Research Project.*
