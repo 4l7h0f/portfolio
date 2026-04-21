@@ -2,12 +2,23 @@
 
 ## 1. Can AI Replace SEO Consultants?
 
-### Author A — :contentReference[oaicite:9]{index=9}
-- AI tools can replace many SEO consultant tasks
-- Automation enables full execution of audits and optimizations
+### Author A — Bernard Huang
+- AI can automate large parts of SEO workflows:
+  - Content optimization
+  - SERP analysis
+  - Topic research
 
-### Author B — Industry practitioners (discussion responses)
-- AI cannot replace strategic thinking
+- AI assists in identifying gaps and improving content performance
+(source: https://www.clearscope.io/blog/ai-in-seo-what-you-need-to-know ([Clearscope][1]))
+
+### Author B — Industry Practitioners (e.g., Aleyda Solís)
+
+- AI cannot replace:
+  - Strategy
+  - Prioritization
+  - Business alignment
+    (source: https://learningseo.io/)
+
 - Consultants provide:
   - Context
   - Prioritization
@@ -24,11 +35,17 @@ AI replaces execution, not strategy.
 
 ## 2. What Is the Primary SEO KPI?
 
-### Author A — Traditional SEO approach
+### Author A — Brian Dean
 - Rankings and organic traffic are primary metrics
+  (source: https://backlinko.com/google-ranking-factors)
 
-### Author B — :contentReference[oaicite:10]{index=10}
-- AI visibility and retrievability are the new KPIs
+### Author B — Kevin Indig
+- SEO is shifting toward:
+
+  - Visibility
+  - Impressions
+  - Influence (not just clicks)
+    (source: https://www.kevin-indig.com/seo-metrics/)
 
 ### My Position:
 Use a hybrid KPI model:
@@ -46,8 +63,13 @@ Use a hybrid KPI model:
 ### Author A — Traditional SEO thinking
 - High-quality content + backlinks are sufficient
 
-### Author B — :contentReference[oaicite:11]{index=11}
-- Brand authority and trust are critical in AI search
+### Author B — Jason Barnard
+- AI prioritizes:
+
+  - Brand authority
+  - Entity recognition
+    (source: https://kalicube.com/)
+
 
 ### My Position:
 Content + brand authority must be integrated
@@ -63,8 +85,10 @@ Content + brand authority must be integrated
 ### Author A — Traditional approach
 - Monthly or quarterly audits
 
-### Author B — :contentReference[oaicite:12]{index=12}
+### Author B — Matt Diggity
+
 - Continuous, automated weekly optimization
+  (source: https://diggitymarketing.com/)
 
 ### My Position:
 Weekly continuous optimization
@@ -80,8 +104,12 @@ Weekly continuous optimization
 ### Author A — Common narrative
 - AI will reduce the importance of SEO
 
-### Author B — :contentReference[oaicite:13]{index=13} citing :contentReference[oaicite:14]{index=14}
-- SEO is more important than ever due to AI reliance on external data
+### Author B — Clearscope & Google Search Central
+- AI systems rely on:
+
+  - Indexed web content
+  - Structured, high-quality information
+    (source: https://www.clearscope.io/blog/optimizing-for-ai-search-in-2026 ([Clearscope][2]))
 
 ### My Position:
 SEO is evolving, not declining
@@ -89,3 +117,7 @@ SEO is evolving, not declining
 ### Reason:
 - AI systems depend on indexed, structured, and retrievable content
 - SEO becomes the foundation of AI visibility
+
+
+[1]: https://www.clearscope.io/blog/ai-in-seo-what-you-need-to-know?utm_source=chatgpt.com "AI in SEO: What You Need to Know for 2026"
+[2]: https://www.clearscope.io/blog/optimizing-for-ai-search-in-2026?utm_source=chatgpt.com "Optimizing for AI Search in 2026: What's Changed and ..."

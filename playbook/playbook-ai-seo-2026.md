@@ -1317,3 +1317,225 @@ But weaker in:
 > Understanding limitations is what allows it to evolve.
 
 ## 9. Who I would NOT recommend following and why
+
+This section outlines **types of SEO advice, approaches, or practitioners that should be avoided** when implementing this playbook. The goal is to prevent strategic misalignment and wasted effort.
+
+---
+
+### 9.1 “AI-Only SEO” Advocates
+
+**Who:**
+
+- People claiming AI can fully replace:
+  - SEO experts
+  - Content writers
+  - Strategic decision-making
+
+**Why Not Follow:**
+
+- AI lacks:
+  - Business context
+  - Strategic prioritization
+  - Judgment
+
+- Leads to:
+  - Generic content
+  - Poor differentiation
+  - Weak authority signals
+
+**Conflict with Playbook:**
+
+- Section 6.1 → AI is **not a strategist**
+- Section 7.4 → SEO requires a **hybrid system (AI + human)**
+
+**Final Take:**
+
+> Avoid anyone treating AI as a replacement instead of a system component
+
+---
+
+### 9.2 “Publish at Scale Without Editing” Strategies
+
+**Who:**
+
+- Advocates of mass AI content publishing with little or no human review
+
+**Why Not Follow:**
+
+- Leads to:
+  - Repetitive content
+  - Low trust
+  - Poor performance in search and AI systems
+
+**Conflict with Playbook:**
+
+- Section 3 & 4.3 → Human editing is mandatory
+- Section 6.2 → Raw AI content is rejected
+
+**Final Take:**
+
+> Scale without quality destroys authority
+
+---
+
+### 9.3 “SEO = Rankings Only” Traditionalists
+
+**Who:**
+
+- SEOs focused exclusively on:
+  - Google rankings
+  - Blue-link traffic
+
+**Why Not Follow:**
+
+- Ignores:
+  - AI-generated answers
+  - Multi-platform discovery
+  - Brand visibility
+
+**Conflict with Playbook:**
+
+- Section 5.4 → Shift from ranking → AI visibility
+- Section 7.3 → AI visibility is a core KPI
+
+**Final Take:**
+
+> Rankings matter, but they are no longer sufficient
+
+---
+
+### 9.4 “Quarterly SEO Audit” Mindset
+
+**Who:**
+
+- Teams or consultants who:
+  - Audit SEO every 3–6 months
+  - Avoid continuous optimization
+
+**Why Not Follow:**
+
+- Misses:
+  - CTR opportunities
+  - Content decay
+  - Fast-moving changes
+
+**Conflict with Playbook:**
+
+- Section 4.6 → Weekly iteration
+- Section 6.4 → Quarterly SEO is outdated
+- Section 7.1 → SEO is a continuous system
+
+**Final Take:**
+
+> Slow SEO = lost traffic
+
+---
+
+### 9.5 “Volume-First Content Strategies”
+
+**Who:**
+
+- Strategies focused on:
+  - Publishing large amounts of content
+  - Maximizing keyword coverage without depth
+
+**Why Not Follow:**
+
+- Leads to:
+  - Content saturation
+  - Low differentiation
+  - Weak authority
+
+**Conflict with Playbook:**
+
+- Section 5.5 → Quality vs quantity
+- Section 6.5 → Volume alone is ineffective
+
+**Final Take:**
+
+> More content does not equal more impact
+
+---
+
+### 9.6 “Tool-Driven Without Thinking” Operators
+
+**Who:**
+
+- People blindly following:
+  - SEO tools
+  - Automated recommendations
+
+**Why Not Follow:**
+
+- Tools provide:
+  - Data
+  - Signals
+
+But NOT:
+- Context
+- Strategy
+- Prioritization
+
+**Conflict with Playbook:**
+
+- Section 8.1 → Over-reliance on tools is a weakness
+- Section 5.2 → Automation must be balanced with human judgment
+
+**Final Take:**
+
+> Tools inform decisions — they do not make them
+
+---
+
+### 9.7 “Keyword Volume Above All” Thinking
+
+**Who:**
+
+- SEOs prioritizing:
+  - High-volume keywords
+  - Traffic over intent
+
+**Why Not Follow:**
+
+- Leads to:
+  - Low conversion traffic
+  - Misaligned strategy
+
+**Conflict with Playbook:**
+
+- Section 6.7 → Intent over volume
+- Step 1 → Search intent is the priority
+
+**Final Take:**
+
+> Traffic without intent has no value
+
+---
+
+### Final Reflection
+
+The common pattern across all these:
+
+- Over-simplification
+- Over-automation
+- Outdated assumptions
+
+This playbook instead prioritizes:
+
+- Systems thinking
+- Continuous improvement
+- AI + human collaboration
+
+---
+
+## Key Principle
+
+> The biggest risk in modern SEO is not lack of tools  
+> — it is following the wrong mental model
+"""
+
+file_path = "/mnt/data/ai-seo-playbook-section-9.md"
+with open(file_path, "w") as f:
+    f.write(content)
+
+file_path

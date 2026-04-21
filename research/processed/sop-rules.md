@@ -5,7 +5,7 @@
 (source: Brian Dean, https://backlinko.com/search-intent)
 
 - Group keywords into topical clusters instead of targeting single keywords  
-
+(source: Koray Tuğberk GÜBÜR — https://www.holisticseo.digital/)
 ---
 
 ## 2. SERP & AI Analysis Rules
@@ -13,13 +13,13 @@
 - Identify structure, angle, and intent alignment  
 
 - Evaluate how AI systems answer the query (ChatGPT, Google AI)  
-(source: :contentReference[oaicite:0]{index=0})
+(source: Google Search Central — https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
 
 ---
 
 ## 3. AI Content Usage Rules
 - Use AI for drafting and outlining, not final publishing  
-(source: Google Search Central)
+(source: Google Search Central — https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)
 
 - Always apply human editing for:
   - Accuracy
@@ -38,7 +38,7 @@
   - Keyword stuffing
   - Generic AI-generated text  
 
-(source: :contentReference[oaicite:1]{index=1})
+(source: Google Search Central — https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
 
 ---
 
@@ -47,7 +47,7 @@
 - Ensure factual accuracy and up-to-date information  
 - Use semantic clarity and structured data  
 
-(source: :contentReference[oaicite:2]{index=2} citing :contentReference[oaicite:3]{index=3})
+(source: Jason Barnard — https://kalicube.com/learning-spaces/)
 
 ---
 
@@ -58,6 +58,8 @@
   - Headings
   - Internal links  
 
+(source: Aleyda Solís — https://learningseo.io/)
+
 ---
 
 ## 7. Brand Authority Rules
@@ -65,7 +67,7 @@
 - Increase brand mentions (not just backlinks)  
 - Maintain consistent positioning and messaging  
 
-(source: :contentReference[oaicite:4]{index=4})
+(source: Jason Barnard — https://kalicube.com/)
 
 ---
 
@@ -73,7 +75,7 @@
 - Automate SEO monitoring using tools connected to Google Search Console  
 - Run checks weekly instead of quarterly  
 
-(source: :contentReference[oaicite:5]{index=5})
+(source: Kevin Indig — https://www.kevin-indig.com/)
 
 ---
 
@@ -87,7 +89,7 @@ Primary actions:
 - Update title tags
 - Improve meta descriptions  
 
-(source: :contentReference[oaicite:6]{index=6})
+(source: Google Search Central — https://support.google.com/webmasters/answer/7576553)
 
 ---
 
@@ -101,6 +103,8 @@ Primary actions:
   - Prioritization
   - Intent interpretation  
 
+(source: Google Search Central — https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)
+
 ---
 
 ## 11. KPI & Measurement Rules
@@ -109,7 +113,7 @@ Track beyond rankings:
 - Brand presence
 - Conversions  
 
-(source: :contentReference[oaicite:7]{index=7})
+(source: Kevin Indig — https://www.kevin-indig.com/seo-metrics/)
 
 ---
 
@@ -118,4 +122,4 @@ Track beyond rankings:
 - Run optimization cycles weekly  
 - Continuously update content  
 
-(source: :contentReference[oaicite:8]{index=8})
+(source: Matt Diggity — https://diggitymarketing.com/)
